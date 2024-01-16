@@ -1,0 +1,16 @@
+C:\Users\Jugge\source\repos\GraficacionyVideojuegos\HolaMundo3D\HolaMundo3D\obj\Debug\net8.0-windows\HolaMundo3D.Form1.resources
+C:\Users\Jugge\source\repos\GraficacionyVideojuegos\HolaMundo3D\HolaMundo3D\obj\Debug\net8.0-windows\HolaMundo3D.csproj.GenerateResource.cache
+C:\Users\Jugge\source\repos\GraficacionyVideojuegos\HolaMundo3D\HolaMundo3D\obj\Debug\net8.0-windows\HolaMundo3D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jugge\source\repos\GraficacionyVideojuegos\HolaMundo3D\HolaMundo3D\obj\Debug\net8.0-windows\HolaMundo3D.AssemblyInfoInputs.cache
+C:\Users\Jugge\source\repos\GraficacionyVideojuegos\HolaMundo3D\HolaMundo3D\obj\Debug\net8.0-windows\HolaMundo3D.AssemblyInfo.cs
+C:\Users\Jugge\source\repos\GraficacionyVideojuegos\HolaMundo3D\HolaMundo3D\obj\Debug\net8.0-windows\HolaMundo3D.csproj.CoreCompileInputs.cache
+C:\Users\Jugge\source\repos\GraficacionyVideojuegos\HolaMundo3D\HolaMundo3D\bin\Debug\net8.0-windows\HolaMundo3D.exe
+C:\Users\Jugge\source\repos\GraficacionyVideojuegos\HolaMundo3D\HolaMundo3D\bin\Debug\net8.0-windows\HolaMundo3D.deps.json
+C:\Users\Jugge\source\repos\GraficacionyVideojuegos\HolaMundo3D\HolaMundo3D\bin\Debug\net8.0-windows\HolaMundo3D.runtimeconfig.json
+C:\Users\Jugge\source\repos\GraficacionyVideojuegos\HolaMundo3D\HolaMundo3D\bin\Debug\net8.0-windows\HolaMundo3D.dll
+C:\Users\Jugge\source\repos\GraficacionyVideojuegos\HolaMundo3D\HolaMundo3D\bin\Debug\net8.0-windows\HolaMundo3D.pdb
+C:\Users\Jugge\source\repos\GraficacionyVideojuegos\HolaMundo3D\HolaMundo3D\obj\Debug\net8.0-windows\HolaMundo3D.dll
+C:\Users\Jugge\source\repos\GraficacionyVideojuegos\HolaMundo3D\HolaMundo3D\obj\Debug\net8.0-windows\refint\HolaMundo3D.dll
+C:\Users\Jugge\source\repos\GraficacionyVideojuegos\HolaMundo3D\HolaMundo3D\obj\Debug\net8.0-windows\HolaMundo3D.pdb
+C:\Users\Jugge\source\repos\GraficacionyVideojuegos\HolaMundo3D\HolaMundo3D\obj\Debug\net8.0-windows\HolaMundo3D.genruntimeconfig.cache
+C:\Users\Jugge\source\repos\GraficacionyVideojuegos\HolaMundo3D\HolaMundo3D\obj\Debug\net8.0-windows\ref\HolaMundo3D.dll
