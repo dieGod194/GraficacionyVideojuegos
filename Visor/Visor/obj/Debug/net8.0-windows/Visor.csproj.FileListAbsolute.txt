@@ -1,0 +1,16 @@
+C:\Users\Jugge\source\repos\GraficacionyVideojuegos\Visor\Visor\bin\Debug\net8.0-windows\Visor.exe
+C:\Users\Jugge\source\repos\GraficacionyVideojuegos\Visor\Visor\bin\Debug\net8.0-windows\Visor.deps.json
+C:\Users\Jugge\source\repos\GraficacionyVideojuegos\Visor\Visor\bin\Debug\net8.0-windows\Visor.runtimeconfig.json
+C:\Users\Jugge\source\repos\GraficacionyVideojuegos\Visor\Visor\bin\Debug\net8.0-windows\Visor.dll
+C:\Users\Jugge\source\repos\GraficacionyVideojuegos\Visor\Visor\bin\Debug\net8.0-windows\Visor.pdb
+C:\Users\Jugge\source\repos\GraficacionyVideojuegos\Visor\Visor\obj\Debug\net8.0-windows\Visor.Form1.resources
+C:\Users\Jugge\source\repos\GraficacionyVideojuegos\Visor\Visor\obj\Debug\net8.0-windows\Visor.csproj.GenerateResource.cache
+C:\Users\Jugge\source\repos\GraficacionyVideojuegos\Visor\Visor\obj\Debug\net8.0-windows\Visor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jugge\source\repos\GraficacionyVideojuegos\Visor\Visor\obj\Debug\net8.0-windows\Visor.AssemblyInfoInputs.cache
+C:\Users\Jugge\source\repos\GraficacionyVideojuegos\Visor\Visor\obj\Debug\net8.0-windows\Visor.AssemblyInfo.cs
+C:\Users\Jugge\source\repos\GraficacionyVideojuegos\Visor\Visor\obj\Debug\net8.0-windows\Visor.csproj.CoreCompileInputs.cache
+C:\Users\Jugge\source\repos\GraficacionyVideojuegos\Visor\Visor\obj\Debug\net8.0-windows\Visor.dll
+C:\Users\Jugge\source\repos\GraficacionyVideojuegos\Visor\Visor\obj\Debug\net8.0-windows\refint\Visor.dll
+C:\Users\Jugge\source\repos\GraficacionyVideojuegos\Visor\Visor\obj\Debug\net8.0-windows\Visor.pdb
+C:\Users\Jugge\source\repos\GraficacionyVideojuegos\Visor\Visor\obj\Debug\net8.0-windows\Visor.genruntimeconfig.cache
+C:\Users\Jugge\source\repos\GraficacionyVideojuegos\Visor\Visor\obj\Debug\net8.0-windows\ref\Visor.dll
